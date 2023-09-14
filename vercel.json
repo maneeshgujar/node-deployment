@@ -20,6 +20,14 @@
         "src": "/products/(.*)",
         "dest": "index.js"
     },
+    {
+        "src": "/users",
+        "dest": "index.js"
+    },
+      {
+        "src": "/users",
+        "dest": "index.js"
+    },
     
     {
         "src": "/add",
