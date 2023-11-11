@@ -17,8 +17,7 @@ const session = require('express-session')
 
 
 
-//mongodb atlas user passwords
-// dTAoru674pRYEG6H
+
 
 // console.log(process.env.mongo_atlas_pwd_maneesh_01)
 
